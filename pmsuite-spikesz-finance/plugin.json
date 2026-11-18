@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "pmsuite-spikesz-finance",
+  "version": "1.1.0",
+  "description": "PM Suite (Spikesz workspace) finance connection only, for the Spikesz Finance space: list clients, projects and invoices; preview and create invoices.",
+  "license": "MIT",
+  "keywords": ["pmsuite", "invoicing", "finance"]
+}
